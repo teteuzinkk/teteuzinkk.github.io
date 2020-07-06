@@ -1,6 +1,2 @@
-# teteuzinkk.github.io
-
-Hello World!!
-Matheus falando
-o Pedro é meio feio , mas ta suave
-bola pra frente
+C:\Users\LAS\Desktop\site-teste\imagens
+C:\Users\LAS\Desktop\site-teste\Site.html
